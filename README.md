@@ -2,4 +2,4 @@
 
 Simple script showing scroll progression bar
 
-https://lidzkowski.github.io/scroll-effect/
+https://lidzkowski.github.io/scroll-effect/ - automatic!
